@@ -1,6 +1,5 @@
 # Library-Management-System
 
-## Project 4
 ### Bits Library Management System
 
 **User Mode (for Students):**
