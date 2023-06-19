@@ -1,5 +1,4 @@
 # OOP_Library_Management
-In this repository, we students of BITS Pilani of Group 34 and Group 64 will work together to create a library management system with the following abilities:
 
 ## Project 4
 ### Bits Library Management System
@@ -20,12 +19,8 @@ In this repository, we students of BITS Pilani of Group 34 and Group 64 will wor
 + A student can keep a book for at most 15 days.
 + If a student returns a book after the deadline, the system should be able to calculate the charges and add it to the existing dues.
 
-Concepts expected to be incorporated into the project: **Multithreading** (to handle multiple requests for submitting issue requests), inheritance, interfaces, Swing framework (Java)/React (JS) for GUI [GUI will earn 5 marks bonus and is not mandatory to be implemented]
-
+Concepts expected to be incorporated into the project: **Multithreading** (to handle multiple requests for submitting issue requests), inheritance, interfaces, Swing framework (Java)/React (JS) for GUI.
 Testing will be done using test cases entered through a text file and outputs printed to another text file. Test case format and sample test cases will be uploaded after the 1st phase of submission.
-
-Associated TA (contact via e-mail only): Mithil Shah (f20200980@pilani.bits-pilani.ac.in)
-
 
 ## Documentation
 
